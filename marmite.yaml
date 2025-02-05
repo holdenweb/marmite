@@ -1,11 +1,11 @@
-name: Your Blog
-tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+name: Sample Page for Demo
+tagline: Don't exect too much!
+url: https://holdenweb.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
+  - ["Follow me", "https://mastodon.social/holdenweb"]
   - ["Github", "https://github.com/rochacbruno/marmite"]
 
 
