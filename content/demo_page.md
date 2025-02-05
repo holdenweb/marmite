@@ -1,7 +1,7 @@
-# About you
+# Content, Dammit!
 
 Talk about you!
 
-Use all markdown 
+This page left blank intentionally.
 
 read more on https://rochacbruno.github.io/marmite/markdown-format.html
